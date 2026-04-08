@@ -1,7 +1,8 @@
 # 3D Interactive Anatomy Explorer
 
 ## 🎥 Demo Video
-<video src="./Demo_Video/anatomyV1.mp4" controls width="100%"></video>
+
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Click%20Here-blue?style=for-the-badge)](https://drive.google.com/file/d/1z_Y-hO-Ti7qW4u0HHNmtIYQsFTPZgGi-/view)
 
 > [!WARNING]
 > **Concept Demo Notice**: This project is a concept demo currently under development. The initial foundation and rapid prototyping for this application were developed with the assistance of AI. 
@@ -38,4 +39,3 @@ To run this project locally, clone the repository and execute:
 ```bash
 npm install
 npm run dev
-```
