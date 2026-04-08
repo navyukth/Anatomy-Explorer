@@ -1,8 +1,7 @@
 # 3D Interactive Anatomy Explorer
 
 ## 🎥 Demo Video
-
-![Demo](Demo_Video/anatomyV1.mp4)
+<video src="Demo_Video/anatomyV1.mp4" width="320" height="240" controls></video>
 
 > [!WARNING]
 > **Concept Demo Notice**: This project is a concept demo currently under development. The initial foundation and rapid prototyping for this application were developed with the assistance of AI. 
