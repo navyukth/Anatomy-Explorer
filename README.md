@@ -2,7 +2,7 @@
 
 ## 🎥 Demo Video
 
-[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Click%20Here-blue?style=for-the-badge)](https://drive.google.com/file/d/1z_Y-hO-Ti7qW4u0HHNmtIYQsFTPZgGi-/view)
+▶️ [Click to Play Demo](./Demo_Video/anatomyV1.mp4)
 
 > [!WARNING]
 > **Concept Demo Notice**: This project is a concept demo currently under development. The initial foundation and rapid prototyping for this application were developed with the assistance of AI. 
