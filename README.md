@@ -2,9 +2,7 @@
 
 ## 🎥 Demo Video
 
-<p align="center" width="100%">
-<video src="https://github.com/navyukth/Anatomy-Explorer/blob/main/Demo_Video/anatomyV1.mp4" width="80%" controls></video>
-</p>
+[![Watch Demo](./demo.png)](https://drive.google.com/file/d/1z_Y-hO-Ti7qW4u0HHNmtIYQsFTPZgGi-/view?usp=drive_link)
 
 > [!WARNING]
 > **Concept Demo Notice**: This project is a concept demo currently under development. The initial foundation and rapid prototyping for this application were developed with the assistance of AI. 
