@@ -2,7 +2,7 @@
 
 ## 🎥 Demo Video
 
-[![Watch Demo](./demo.png)](https://drive.google.com/file/d/1z_Y-hO-Ti7qW4u0HHNmtIYQsFTPZgGi-/view?usp=drive_link)
+[![Watch Demo](https://img.shields.io/badge/▶%20Play%20Demo%20Video-black?style=for-the-badge)](https://drive.google.com/file/d/1z_Y-hO-Ti7qW4u0HHNmtIYQsFTPZgGi-/view?usp=drive_link)
 
 > [!WARNING]
 > **Concept Demo Notice**: This project is a concept demo currently under development. The initial foundation and rapid prototyping for this application were developed with the assistance of AI. 
